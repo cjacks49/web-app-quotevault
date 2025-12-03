@@ -1,7 +1,7 @@
 {
   "name": "react",
   "version": "1.0.0",
-  "homepage": "https://cjacks49.github.io/final-web-app-quotevault",
+  "homepage": "https://cjacks49.github.io/web-app-quotevault",
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
